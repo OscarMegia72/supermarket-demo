@@ -1,0 +1,54 @@
+{
+    "cart_type": "thermomix",
+    "uuid": "demo-001",
+    "user": {
+        "is_logged": false,
+        "empty_actual_cart": false,
+        "locale": "es_ES"
+    },
+    "delivery": {
+       "type": "PICKUP",
+    "id": "010006"
+    },
+    "delivery_day": {
+        "time_slot": {
+            "start_date": "2022-03-08 13:00",
+            "end_date": "2022-03-08 14:00"
+        },
+        "url_delivery_day_callback": [
+            "supermercado-entrega-en-el-dia",
+            "congelados"
+        ]
+    },
+    "cupons": [
+        {
+            "cupon_id": "ABCD1234",
+            "info": "info"
+        }
+    ],
+    "line_items": [
+        {
+      "id": "0110118602202774___",
+      "preparations": true,
+      "measurement": false,
+      "purchase_as": "SALE_TYPE_UNIT",
+      "preparation_description": "Describe preparacion",
+      "quantity": 1,
+      "price": {
+        "f_price": "3,45",
+        "o_price": "3,45",
+        "discount": 0,
+        "currencty": "EUR"
+      },
+      "name": "AMSTEL Radler lager with natural lemon juice 6-pack bottles 25 cl",
+      "description": "AMSTEL Radler lager with natural lemon juice 6-pack bottles 25 cl",
+      "brand": [
+        "AMSTEL"
+      ],
+      "url_image": {
+        "url": "//sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202104/14/00118602202774____11__150x150.jpg",
+        "id": "m"
+      }
+    }
+    ]
+}

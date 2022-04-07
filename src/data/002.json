@@ -1,0 +1,542 @@
+{
+  "cart_type": "thermomix",
+  "uuid": "demo-002",
+  "user": {
+      "is_logged": false,
+      "empty_actual_cart": false,
+       "locale":"es_ES"
+  },
+  "delivery": {
+     "type": "PICKUP",
+      "id": "010731"
+  },
+  "delivery_day": {
+      "time_slot": {
+          "start_date": "2022-03-08 13:00",
+          "end_date": "2022-03-08 14:00"
+      },
+      "url_delivery_day_callback": []
+  },
+  "cupons": [
+      {
+          "cupon_id": "ABCD1234",
+          "info": "info"
+      }
+  ],
+      "line_items": [
+      {
+      "id": "001018630400499___",
+    
+      "units": 1,
+      "provider": "ECI",
+      "price": {
+          "o_price": 1.25,
+          "f_price": 1.25,
+          "discount": 0,
+          "discount_percent": 0,
+          "currency": "EUR"
+      },
+      "title": "EL CORTE INGLES agua mineral natural garrafa 5 l",
+      "restrictions": ["supermarket"],
+      "non_incremental_item": false,
+      "brand": "EL CORTE INGLES",
+      "product_id": "B001018630400499",
+      "url": "https://www.ave.elcorteingles.es:4435/supermercado-entrega-en-el-dia/B001018630400499-el-corte-ingles-agua-mineral-natural-garrafa-5-l/",
+      "unit_price": 1.25,
+      "no_price": false,
+      "discounted_price": null,
+      "discount": null,
+      "image": {
+          "aspect_ratio": 1,
+          "url": "//sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201806/21/00118630400499____2__150x150.jpg"
+      },
+      "flags": {
+          "free": false,
+          "on_sale": false,
+          "two_days_delivery": true
+      },
+      "is_food": true,
+      "unit_type": "units",
+      "iframe_url": "//www.ave.elcorteingles.es:4435/javascripts/library/feci-v2/index_cart.html?reference=001018630400499   &promotion_id=&months=&siteId=",
+      "quantity": 1
+  }, {
+      "id": "001018630000844___",
+      "units": 1,
+      "provider": "ECI",
+      "price": {
+          "o_price": 0.51,
+          "f_price": 0.46,
+          "discount": 0.05,
+          "discount_percent": 9,
+          "currency": "EUR"
+      },
+      "title": "EL CORTE INGLES agua mineral natural botella 1,5 l",
+      "discount": 9,
+      "restrictions": ["supermarket"],
+      "non_incremental_item": false,
+      "brand": "EL CORTE INGLES",
+      "product_id": "B001018630000844",
+      "url": "https://www.ave.elcorteingles.es:4435/supermercado-entrega-en-el-dia/B001018630000844-el-corte-ingles-agua-mineral-natural-botella-15-l/",
+      "unit_price": 0.51,
+      "unit_sale_price": 0.46,
+      "no_price": false,
+      "discounted_price": null,
+      "image": {
+          "aspect_ratio": 1,
+          "url": "//sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201806/21/00118630000844____7__150x150.jpg"
+      },
+      "flags": {
+          "free": false,
+          "on_sale": true,
+          "two_days_delivery": true
+      },
+      "is_food": true,
+      "unit_type": "units",
+      "iframe_url": "//www.ave.elcorteingles.es:4435/javascripts/library/feci-v2/index_cart.html?reference=001018630000844   &promotion_id=&months=&siteId=",
+      "quantity": 1
+  }, {
+      "id": "001018630600791___",
+      "units": 1,
+      "provider": "ECI",
+      "price": {
+          "o_price": 0.35,
+          "f_price": 0.35,
+          "discount": 0,
+          "discount_percent": 0,
+          "currency": "EUR"
+      },
+      "title": "EL CORTE INGLES agua mineral natural botella 33 cl",
+      "restrictions": ["supermarket"],
+      "non_incremental_item": false,
+      "brand": "EL CORTE INGLES",
+      "product_id": "B001018630600791",
+      "url": "https://www.ave.elcorteingles.es:4435/supermercado-entrega-en-el-dia/B001018630600791-el-corte-ingles-agua-mineral-natural-botella-33-cl/",
+      "unit_price": 0.35,
+      "no_price": false,
+      "discounted_price": null,
+      "discount": null,
+      "image": {
+          "aspect_ratio": 1,
+          "url": "//sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201807/13/00118630600791____2__150x150.jpg"
+      },
+      "flags": {
+          "free": false,
+          "on_sale": false,
+          "two_days_delivery": true
+      },
+      "is_food": true,
+      "unit_type": "units",
+      "iframe_url": "//www.ave.elcorteingles.es:4435/javascripts/library/feci-v2/index_cart.html?reference=001018630600791   &promotion_id=&months=&siteId=",
+      "quantity": 1
+  }, {
+      "id": "001018630600759___",
+      "units": 1,
+      "provider": "ECI",
+      "price": {
+          "o_price": 0.36,
+          "f_price": 0.36,
+          "discount": 0,
+          "discount_percent": 0,
+          "currency": "EUR"
+      },
+      "title": "EL CORTE INGLES agua mineral natural botella 50 cl",
+      "restrictions": ["supermarket"],
+      "non_incremental_item": false,
+      "brand": "EL CORTE INGLES",
+      "product_id": "B001018630600759",
+      "url": "https://www.ave.elcorteingles.es:4435/supermercado-entrega-en-el-dia/B001018630600759-el-corte-ingles-agua-mineral-natural-botella-50-cl/",
+      "unit_price": 0.36,
+      "no_price": false,
+      "discounted_price": null,
+      "discount": null,
+      "image": {
+          "aspect_ratio": 1,
+          "url": "//sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201807/13/00118630600759____2__150x150.jpg"
+      },
+      "flags": {
+          "free": false,
+          "on_sale": false,
+          "two_days_delivery": true
+      },
+      "is_food": true,
+      "unit_type": "units",
+      "iframe_url": "//www.ave.elcorteingles.es:4435/javascripts/library/feci-v2/index_cart.html?reference=001018630600759   &promotion_id=&months=&siteId=",
+      "quantity": 1
+  }, {
+      "id": "001018630003285___",
+      "units": 1,
+      "provider": "ECI",
+      "price": {
+          "o_price": 0.56,
+          "f_price": 0.56,
+          "discount": 0,
+          "discount_percent": 0,
+          "currency": "EUR"
+      },
+      "title": "EL CORTE INGLES agua mineral natural de mineralización muy débil botella 1,5 l",
+      "restrictions": ["supermarket"],
+      "non_incremental_item": false,
+      "brand": "EL CORTE INGLES",
+      "product_id": "B001018630003285",
+      "url": "https://www.ave.elcorteingles.es:4435/supermercado-entrega-en-el-dia/B001018630003285-el-corte-ingles-agua-mineral-natural-de-mineralizacion-muy-debil-botella-15-l/",
+      "unit_price": 0.56,
+      "no_price": false,
+      "discounted_price": null,
+      "discount": null,
+      "image": {
+          "aspect_ratio": 1,
+          "url": "//sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201807/13/00118630003285____3__150x150.jpg"
+      },
+      "flags": {
+          "free": false,
+          "on_sale": false,
+          "two_days_delivery": true
+      },
+      "is_food": true,
+      "unit_type": "units",
+      "iframe_url": "//www.ave.elcorteingles.es:4435/javascripts/library/feci-v2/index_cart.html?reference=001018630003285   &promotion_id=&months=&siteId=",
+      "quantity": 1
+  }, {
+      "id": "001018630000745___",
+      "units": 1,
+      "provider": "ECI",
+      "price": {
+          "o_price": 0.65,
+          "f_price": 0.65,
+          "discount": 0,
+          "discount_percent": 0,
+          "currency": "EUR"
+      },
+      "title": "FONT VELLA agua mineral natural sin gas botella 1,5 l",
+      "restrictions": ["supermarket"],
+      "non_incremental_item": false,
+      "brand": "FONT VELLA",
+      "product_id": "B001018630000745",
+      "url": "https://www.ave.elcorteingles.es:4435/supermercado-entrega-en-el-dia/B001018630000745-font-vella-agua-mineral-natural-sin-gas-botella-15-l/",
+      "unit_price": 0.65,
+      "no_price": false,
+      "discounted_price": null,
+      "discount": null,
+      "image": {
+          "aspect_ratio": 1,
+          "url": "//sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202104/29/00118630000745____12__150x150.jpg"
+      },
+      "flags": {
+          "free": false,
+          "on_sale": false,
+          "two_days_delivery": true
+      },
+      "is_food": true,
+      "unit_type": "units",
+      "iframe_url": "//www.ave.elcorteingles.es:4435/javascripts/library/feci-v2/index_cart.html?reference=001018630000745   &promotion_id=&months=&siteId=",
+      "quantity": 1
+  }, {
+      "id": "001018630400341___",
+      "units": 1,
+      "provider": "ECI",
+      "price": {
+          "o_price": 2.15,
+          "f_price": 2.15,
+          "discount": 0,
+          "discount_percent": 0,
+          "currency": "EUR"
+      },
+      "title": "FONT VELLA agua mineral natural garrafa 6,25 l",
+      "restrictions": ["supermarket"],
+      "non_incremental_item": false,
+      "brand": "FONT VELLA",
+      "product_id": "B001018630400341",
+      "url": "https://www.ave.elcorteingles.es:4435/supermercado-entrega-en-el-dia/B001018630400341-font-vella-agua-mineral-natural-garrafa-625-l/",
+      "unit_price": 2.15,
+      "no_price": false,
+      "discounted_price": null,
+      "discount": null,
+      "image": {
+          "aspect_ratio": 1,
+          "url": "//sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202104/29/00118630400341____8__150x150.jpg"
+      },
+      "flags": {
+          "free": false,
+          "on_sale": false,
+          "two_days_delivery": true
+      },
+      "is_food": true,
+      "unit_type": "units",
+      "iframe_url": "//www.ave.elcorteingles.es:4435/javascripts/library/feci-v2/index_cart.html?reference=001018630400341   &promotion_id=&months=&siteId=",
+      "quantity": 1
+  }, {
+      "id": "001018630000679___",
+      "units": 1,
+      "provider": "ECI",
+      "price": {
+          "o_price": 0.87,
+          "f_price": 0.87,
+          "discount": 0,
+          "discount_percent": 0,
+          "currency": "EUR"
+      },
+      "title": "FONT VELLA agua mineral natural botella 2 l",
+      "restrictions": ["supermarket"],
+      "non_incremental_item": false,
+      "brand": "FONT VELLA",
+      "product_id": "B001018630000679",
+      "url": "https://www.ave.elcorteingles.es:4435/supermercado-entrega-en-el-dia/B001018630000679-font-vella-agua-mineral-natural-botella-2-l/",
+      "unit_price": 0.87,
+      "no_price": false,
+      "discounted_price": null,
+      "discount": null,
+      "image": {
+          "aspect_ratio": 1,
+          "url": "//sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202104/29/00118630000679____9__150x150.jpg"
+      },
+      "flags": {
+          "free": false,
+          "on_sale": false,
+          "two_days_delivery": true
+      },
+      "is_food": true,
+      "unit_type": "units",
+      "iframe_url": "//www.ave.elcorteingles.es:4435/javascripts/library/feci-v2/index_cart.html?reference=001018630000679   &promotion_id=&months=&siteId=",
+      "quantity": 1
+  }, {
+      "id": "001018630600742___",
+      "units": 1,
+      "provider": "ECI",
+      "price": {
+          "o_price": 0.57,
+          "f_price": 0.57,
+          "discount": 0,
+          "discount_percent": 0,
+          "currency": "EUR"
+      },
+      "title": "FONT VELLA agua mineral natural sin gas botella 50 cl",
+      "restrictions": ["supermarket"],
+      "non_incremental_item": false,
+      "brand": "FONT VELLA",
+      "product_id": "B001018630600742",
+      "url": "https://www.ave.elcorteingles.es:4435/supermercado-entrega-en-el-dia/B001018630600742-font-vella-agua-mineral-natural-sin-gas-botella-50-cl/",
+      "unit_price": 0.57,
+      "no_price": false,
+      "discounted_price": null,
+      "discount": null,
+      "image": {
+          "aspect_ratio": 1,
+          "url": "//sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202104/29/00118630600742____7__150x150.jpg"
+      },
+      "flags": {
+          "free": false,
+          "on_sale": false,
+          "two_days_delivery": true
+      },
+      "is_food": true,
+      "unit_type": "units",
+      "iframe_url": "//www.ave.elcorteingles.es:4435/javascripts/library/feci-v2/index_cart.html?reference=001018630600742   &promotion_id=&months=&siteId=",
+      "quantity": 1
+  }, {
+      "id": "001018630600080___",
+      "units": 1,
+      "provider": "ECI",
+      "price": {
+          "o_price": 0.45,
+          "f_price": 0.45,
+          "discount": 0,
+          "discount_percent": 0,
+          "currency": "EUR"
+      },
+      "title": "FONT VELLA agua mineral natural botella 33 cl con tapón Sport (Personajes surtidos según existencias)",
+      "restrictions": ["supermarket"],
+      "non_incremental_item": false,
+      "brand": "FONT VELLA",
+      "product_id": "B001018630600080",
+      "url": "https://www.ave.elcorteingles.es:4435/supermercado-entrega-en-el-dia/B001018630600080-font-vella-agua-mineral-natural-botella-33-cl-con-tapon-sport-personajes-surtidos-segun-existencias/",
+      "unit_price": 0.45,
+      "no_price": false,
+      "discounted_price": null,
+      "discount": null,
+      "image": {
+          "aspect_ratio": 1,
+          "url": "//sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202102/19/00118630600080____24__150x150.jpg"
+      },
+      "flags": {
+          "free": false,
+          "on_sale": false,
+          "two_days_delivery": true
+      },
+      "is_food": true,
+      "unit_type": "units",
+      "iframe_url": "//www.ave.elcorteingles.es:4435/javascripts/library/feci-v2/index_cart.html?reference=001018630600080   &promotion_id=&months=&siteId=",
+      "quantity": 1
+  }, {
+      "id": "001018630003095___",
+      "units": 1,
+      "provider": "ECI",
+      "price": {
+          "o_price": 1.1,
+          "f_price": 1.1,
+          "discount": 0,
+          "discount_percent": 0,
+          "currency": "EUR"
+      },
+      "title": "FONT VELLA agua mineral natural botella 2,5 l",
+      "restrictions": ["supermarket"],
+      "non_incremental_item": false,
+      "brand": "FONT VELLA",
+      "product_id": "B001018630003095",
+      "url": "https://www.ave.elcorteingles.es:4435/supermercado-entrega-en-el-dia/B001018630003095-font-vella-agua-mineral-natural-botella-25-l/",
+      "unit_price": 1.1,
+      "no_price": false,
+      "discounted_price": null,
+      "discount": null,
+      "image": {
+          "aspect_ratio": 1,
+          "url": "//sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202104/29/00118630003095____12__150x150.jpg"
+      },
+      "flags": {
+          "free": false,
+          "on_sale": false,
+          "two_days_delivery": true
+      },
+      "is_food": true,
+      "unit_type": "units",
+      "iframe_url": "//www.ave.elcorteingles.es:4435/javascripts/library/feci-v2/index_cart.html?reference=001018630003095   &promotion_id=&months=&siteId=",
+      "quantity": 1
+  }, {
+      "id": "001018630601591___",
+      "units": 1,
+      "provider": "ECI",
+      "price": {
+          "o_price": 0.75,
+          "f_price": 0.75,
+          "discount": 0,
+          "discount_percent": 0,
+          "currency": "EUR"
+      },
+      "title": "FONT VELLA agua mineral natural botella 75 cl con tapón Sport",
+      "discount": 100,
+      "restrictions": ["supermarket"],
+      "non_incremental_item": false,
+      "brand": "FONT VELLA",
+      "product_id": "B001018630601591",
+      "url": "https://www.ave.elcorteingles.es:4435/supermercado-entrega-en-el-dia/B001018630601591-font-vella-agua-mineral-natural-botella-75-cl-con-tapon-sport/",
+      "unit_price": 0.75,
+      "unit_sale_price": 0,
+      "no_price": false,
+      "discounted_price": null,
+      "image": {
+          "aspect_ratio": 1,
+          "url": "//sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202104/29/00118630601591____15__150x150.jpg"
+      },
+      "flags": {
+          "free": true,
+          "on_sale": false,
+          "two_days_delivery": true
+      },
+      "is_food": true,
+      "unit_type": "units",
+      "iframe_url": "//www.ave.elcorteingles.es:4435/javascripts/library/feci-v2/index_cart.html?reference=001018630601591   &promotion_id=&months=&siteId=",
+      "quantity": 1
+  }, {
+      "id": "001018630001271___",
+      "units": 1,
+      "provider": "ECI",
+      "price": {
+          "o_price": 0.65,
+          "f_price": 0.65,
+          "discount": 0,
+          "discount_percent": 0,
+          "currency": "EUR"
+      },
+      "title": "FONT VELLA agua mineral natural botella 1 l",
+      "restrictions": ["supermarket"],
+      "non_incremental_item": false,
+      "brand": "FONT VELLA",
+      "product_id": "B001018630001271",
+      "url": "https://www.ave.elcorteingles.es:4435/supermercado-entrega-en-el-dia/B001018630001271-font-vella-agua-mineral-natural-botella-1-l/",
+      "unit_price": 0.65,
+      "no_price": false,
+      "discounted_price": null,
+      "discount": null,
+      "image": {
+          "aspect_ratio": 1,
+          "url": "//sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202104/29/00118630001271____9__150x150.jpg"
+      },
+      "flags": {
+          "free": false,
+          "on_sale": false,
+          "two_days_delivery": true
+      },
+      "is_food": true,
+      "unit_type": "units",
+      "iframe_url": "//www.ave.elcorteingles.es:4435/javascripts/library/feci-v2/index_cart.html?reference=001018630001271   &promotion_id=&months=&siteId=",
+      "quantity": 1
+  }, {
+      "id": "001018630600775___",
+      "units": 1,
+      "provider": "ECI",
+      "price": {
+          "o_price": 0.65,
+          "f_price": 0.65,
+          "discount": 0,
+          "discount_percent": 0,
+          "currency": "EUR"
+      },
+      "title": "FONT VELLA agua mineral natural botella 33 cl",
+      "restrictions": ["supermarket"],
+      "non_incremental_item": false,
+      "brand": "FONT VELLA",
+      "product_id": "B001018630600775",
+      "url": "https://www.ave.elcorteingles.es:4435/supermercado-entrega-en-el-dia/B001018630600775-font-vella-agua-mineral-natural-botella-33-cl/",
+      "unit_price": 0.65,
+      "no_price": false,
+      "discounted_price": null,
+      "discount": null,
+      "image": {
+          "aspect_ratio": 1,
+          "url": "//sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202102/19/00118630600775____5__150x150.jpg"
+      },
+      "flags": {
+          "free": false,
+          "on_sale": false,
+          "two_days_delivery": true
+      },
+      "is_food": true,
+      "unit_type": "units",
+      "iframe_url": "//www.ave.elcorteingles.es:4435/javascripts/library/feci-v2/index_cart.html?reference=001018630600775   &promotion_id=&months=&siteId=",
+      "quantity": 1
+  }, {
+      "id": "001018630000539___",
+      "units": 1,
+      "provider": "ECI",
+      "price": {
+          "o_price": 0.65,
+          "f_price": 0.59,
+          "discount": 0.06,
+          "discount_percent": 9,
+          "currency": "EUR"
+      },
+      "title": "BEZOYA agua mineral natural sin gas de mineralización muy débil botella 1,5 l",
+      "discount": 9,
+      "restrictions": ["supermarket"],
+      "non_incremental_item": false,
+      "brand": "BEZOYA",
+      "product_id": "B001018630000539",
+      "url": "https://www.ave.elcorteingles.es:4435/supermercado-entrega-en-el-dia/B001018630000539-bezoya-agua-mineral-natural-sin-gas-de-mineralizacion-muy-debil-botella-15-l/",
+      "unit_price": 0.65,
+      "unit_sale_price": 0.59,
+      "no_price": false,
+      "discounted_price": null,
+      "image": {
+          "aspect_ratio": 1,
+          "url": "//sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202105/12/00118630000539____3__150x150.jpg"
+      },
+      "flags": {
+          "free": false,
+          "on_sale": true,
+          "two_days_delivery": true
+      },
+      "is_food": true,
+      "unit_type": "units",
+      "iframe_url": "//www.ave.elcorteingles.es:4435/javascripts/library/feci-v2/index_cart.html?reference=001018630000539   &promotion_id=&months=&siteId=",
+      "quantity": 1
+  }]
+}
