@@ -11,3 +11,6 @@ edit your host /etc/hosts and set
 
 ###
 Remember use this urls in your browser instead of localhost for avoid cors
+
+version 1.0.3
+git clone --recurse-submodules git@github.com:OscarMegia72/supermarket-demo.git
